@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CustomResumeBlazor",
   "resources": {
-    "hash": "sha256-KHurAwwJu36tJUKuJdYjf7Ovfx9TApnNrWNJJJKM6HQ=",
+    "hash": "sha256-TcOsWyfJnyBABYdph7c0Sr0nKcsFJatqUEAcbKGDv38=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.fs2nvus408.js": "sha256-J2KgXrrbrrqsNozIT08rwcdkSLXSO+5rH7xoI+3bgT0="
     },
@@ -18,7 +18,7 @@
     },
     "assembly": {
       "Blazored.LocalStorage.wasm": "sha256-xHBGFCMjDjvvTwtMvgaMBNmQk9JdVhGmws2/GMZlxrI=",
-      "CustomResumeBlazor.wasm": "sha256-kWQJoD6rGLLBqLQF7fyjtpKJTH7uT1l5Zi1i5vyN4u4=",
+      "CustomResumeBlazor.wasm": "sha256-5TKcDV6mWgEV8X0z9amwE1AK4c7r216njT72HmKizfk=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-ElqY2YbvtTqZLkGBh+6mcZ3d/7fkWTldmFIsweNfYmk=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-b7Ms7fgWTxOOnXot2e7ru7m+fP/cbdR1wr3Hx6FI2w8=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-Ws5szf6fWPAXna+XyWsAhavx+WDFcA/91DQ7iPRPCMs=",
